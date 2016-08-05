@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Cat</key>
+	<string>A small domesticated carnivorous mammal with soft fur, a short snout, and retractile claws. It is widely kept as a pet or for catching mice, and many breeds have been developed.</string>
+	<key>Cow</key>
+	<string>A fully grown female animal of a domesticated breed of ox, kept to produce milk or beef</string>
+	<key>Dog</key>
+	<string>A domesticated carnivorous mammal that typically has a long snout, an acute sense of smell, non-retractile claws, and a barking, howling, or whining voice</string>
+	<key>Duck</key>
+	<string>A waterbird with a broad blunt bill, short legs, webbed feet, and a waddling gait</string>
+	<key>Fish</key>
+	<string>A limbless cold-blooded vertebrate animal with gills and fins living wholly in water</string>
+	<key>Goat</key>
+	<string>A hardy domesticated ruminant mammal that has backward-curving horns and (in the male) a beard. It is kept for its milk and meat, and noted for its lively behaviour</string>
+	<key>Goose</key>
+	<string>A large waterbird with a long neck, short legs, webbed feet, and a short broad bill. Generally geese are larger than ducks and have longer necks and shorter bills</string>
+	<key>Hen</key>
+	<string>A female bird, especially of a domestic fowl</string>
+	<key>Horse</key>
+	<string>A solid-hoofed plant-eating domesticated mammal with a flowing mane and tail, used for riding, racing, and to carry and pull loads</string>
+	<key>Lamb</key>
+	<string>A young sheep</string>
+	<key>Mouse</key>
+	<string>A small rodent that typically has a pointed snout, relatively large ears and eyes, and a long tail</string>
+	<key>Pig</key>
+	<string>An omnivorous domesticated hoofed mammal with sparse bristly hair and a flat snout for rooting in the soil, kept for its meat</string>
+	<key>Rabbit</key>
+	<string>A gregarious burrowing plant-eating mammal, with long ears, long hind legs, and a short tail</string>
+	<key>Rooster</key>
+	<string>A male domestic fowl; a cock</string>
+	<key>Sheep</key>
+	<string>A domesticated ruminant mammal with a thick woolly coat and (typically only in the male) curving horns. It is kept in flocks for its wool or meat, and is proverbial for its tendency to follow others in the flock</string>
+	<key>Bicycle</key>
+	<string>A vehicle consisting of two wheels held in a frame one behind the other, propelled by pedals and steered with handlebars attached to the front wheel</string>
+	<key>Bus</key>
+	<string>A large motor vehicle carrying passengers by road, typically one serving the public on a fixed route and for a fare</string>
+	<key>Car</key>
+	<string>A road vehicle, typically with four wheels, powered by an internal combustion engine and able to carry a small number of people</string>
+	<key>Plane</key>
+	<string>A powered flying vehicle with fixed wings and a weight greater than that of the air it displaces</string>
+	<key>School bus</key>
+	<string>A bus that transports students from home to school, school to home, or to school-sponsored events.</string>
+	<key>Ship</key>
+	<string>A large boat for transporting people or goods by sea</string>
+	<key>Subway</key>
+	<string>An underground electric railroad, usually in a large city</string>
+	<key>Taxi</key>
+	<string>A motor vehicle licensed to transport passengers in return for payment of a fare and typically fitted with a taximeter</string>
+	<key>Train</key>
+	<string>A series of connected railway carriages or wagons moved by a locomotive or by integral motors</string>
+	<key>Truck</key>
+	<string>A large, heavy road vehicle used for carrying goods, materials, or troops; a lorry</string>
+	<key>Van</key>
+	<string>A covered motor vehicle, typically without side windows, used for transporting goods or people</string>
+</dict>
+</plist>

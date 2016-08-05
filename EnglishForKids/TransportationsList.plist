@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bicycle</key>
+	<string>bicycle</string>
+	<key>Bus</key>
+	<string>bus</string>
+	<key>Car</key>
+	<string>car</string>
+	<key>Plane</key>
+	<string>plane</string>
+	<key>School bus</key>
+	<string>school_bus</string>
+	<key>Ship</key>
+	<string>ship</string>
+	<key>Subway</key>
+	<string>subway</string>
+	<key>Taxi</key>
+	<string>taxi</string>
+	<key>Train</key>
+	<string>train</string>
+	<key>Truck</key>
+	<string>truck</string>
+	<key>Van</key>
+	<string>van</string>
+</dict>
+</plist>
